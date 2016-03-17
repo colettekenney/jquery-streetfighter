@@ -23,7 +23,6 @@ $(document).ready(function() {
 	})
 	.mouseup(function(){
 		$('.ryu-throwing').hide();
-		//$('.hadouken').hide();
 		$('.ryu-ready').show();
 	});
 });
