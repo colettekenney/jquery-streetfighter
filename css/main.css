@@ -10,16 +10,18 @@ body {
 
 .main {
 	background-color: white;
-	margin-top: 110px;
-	padding-left: 100px
+	margin:5em 0;
+	padding: 0 0 8em 100px;
 	min-width: 1200px;
-	height: 500px;
+	height: 25em;
 	position: relative;
 	z-index: 1;
 }
 
 .ryu {
 	float: left;
+	margin: 4.3em 0;
+	
 	width: 659px;
 	height: 494px;
 }
@@ -61,7 +63,7 @@ body {
 	float: left;
 	position: absolute;
 	z-index: 10;
-	top: 166px;
+	top: 227px;
 	left: 541px;
 	float: left;
 
