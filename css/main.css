@@ -11,24 +11,24 @@ body {
 .main {
 	background-color: white;
 	margin:5em 0;
-	padding: 0 0 8em 100px;
+	padding: 0 0 0 100px;
 	min-width: 1200px;
-	height: 25em;
+	height: 35em;
 	position: relative;
 	z-index: 1;
 }
 
 .ryu {
 	float: left;
-	margin: 1.8em 0;
-	
+	margin: 0.2em 0;
+	padding-top: 3.5em;
 	width: 41.2em;
-	height: 30.9em;
+	height: 35em;
 }
 
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
 	width: 41.2em;
-	height: 30.9em;
+	height: 35em;
 }
 
 .ryu-ready, .ryu-throwing, .ryu-cool {
@@ -63,8 +63,8 @@ body {
 	float: left;
 	position: absolute;
 	z-index: 10;
-	top: 14.188em;
-	left: 33.813em;
+	top: 12.688em;
+	left: 34.013em;
 	float: left;
 
 }
